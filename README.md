@@ -65,3 +65,5 @@ function and initialization scheme.
 
 - https://christopherolah.wordpress.com/: Many amazing blog posts
   which explore deep concepts in accessible ways.
+
+- http://colah.github.io/posts/2014-07-Understanding-Convolutions/: Explanation on convolutions
