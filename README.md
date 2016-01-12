@@ -67,3 +67,9 @@ function and initialization scheme.
   which explore deep concepts in accessible ways.
 
 - http://colah.github.io/posts/2014-07-Understanding-Convolutions/: Explanation on convolutions
+
+-  http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/: Powerful explanation
+
+-  http://timdettmers.com/2015/03/26/convolution-deep-learning/
+
+
